@@ -1,4 +1,5 @@
 using StringArt.Tools;
+using Utils;
 
 namespace StringArt.Processing
 {

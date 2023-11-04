@@ -1,5 +1,5 @@
-﻿using StringArt.Tools;
-using System.Drawing;
+﻿using System.Drawing;
+using Utils;
 
 namespace StringArt.Model
 {

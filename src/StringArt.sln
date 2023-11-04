@@ -5,7 +5,9 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringArt", "StringArt\StringArt.csproj", "{2A31E49F-24A3-49B1-BB1D-9EAB31DA488F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringArt.Test", "StringArt.Test\StringArt.Test.csproj", "{21D5745D-D83D-428F-8284-2A58603EFAA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringArt.Test", "StringArt.Test\StringArt.Test.csproj", "{21D5745D-D83D-428F-8284-2A58603EFAA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utils", "Utils\Utils.csproj", "{D6A39268-0EF6-49E1-A0B5-DF3BFAE9B668}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{21D5745D-D83D-428F-8284-2A58603EFAA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21D5745D-D83D-428F-8284-2A58603EFAA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21D5745D-D83D-428F-8284-2A58603EFAA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6A39268-0EF6-49E1-A0B5-DF3BFAE9B668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6A39268-0EF6-49E1-A0B5-DF3BFAE9B668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6A39268-0EF6-49E1-A0B5-DF3BFAE9B668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6A39268-0EF6-49E1-A0B5-DF3BFAE9B668}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

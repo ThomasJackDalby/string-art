@@ -1,6 +1,7 @@
 ﻿using StringArt.Model;
 using StringArt.Processing;
 using StringArt.Tools;
+using Utils;
 
 namespace StringArt
 {
